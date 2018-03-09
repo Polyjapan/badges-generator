@@ -1,0 +1,6 @@
+.idea/
+out/
+*.jpg
+target/
+.DS_Store
+*.ttf
